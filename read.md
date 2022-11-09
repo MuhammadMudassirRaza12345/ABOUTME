@@ -27,7 +27,7 @@
 ### Google Certification in Python
 ![Google Certification in Python](https://github.com/MuhammadMudassirRaza12345/PYTHON-FOR-BEGINNERS/blob/main/images/google_crash_course_python.png?raw=true)
 
-## Badges
+<!-- ## Badges
 
 ### Bronze Badge Earned For Python From Hacker Rank
 --------------------------------------------------
@@ -37,7 +37,7 @@
 --------------------------------------------------
 ![Gold Badge From For Python Hacker Rank](https://media-exp1.licdn.com/dms/image/sync/C4D27AQFqswdkk0Q6AA/articleshare-shrink_800/0/1665428081532?e=1666472400&v=beta&t=lGdOy5o3fZ53wat8Iiq7RQ6PkPN_fE-gn4rcsFIowMk)
 --------------------------------------------------
-
+ -->
 
 <!-- ## Let's Connect ---->
 
